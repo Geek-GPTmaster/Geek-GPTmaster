@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Big @ Huge
+- 👋 Hi, I’m Huge & Nice
 - 👀 I’m interested in Bigdata & python
 - 🌱 I’m currently learning R & python
 - 💞️ I’m looking to collaborate on Trading systerm & Clinic data
