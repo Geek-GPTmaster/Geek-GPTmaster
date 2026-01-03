@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Huge & Nice
-- 👀 I’m interested in Bigdata & python
-- 🌱 I’m currently learning Python & Sql
-- 💞️ I’m looking to collaborate on Trading systerm & Clinic data
-- 📫 How to reach me:wangchihao8@126.com
+- Hi, I’m Huge & Nice from china, but now a world citizen.
+- I’m interested in Bigdata & Data analysis
+- I’m currently learning Python & Sql
+- I’m looking to collaborate on Commodityes Trading & Commodities data Analysis
+- How to reach me:wangchihao8@126.com
 
 
 <!---
